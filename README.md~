@@ -244,10 +244,8 @@ Maze Traced:-
 |* *|* *|
 +-+-+-+-+
 Current Mouse Position: 2 3
-```
 
 # Sample output using ShortestPath
-```C
 ./simulate
 
 +-+-+-+-+
