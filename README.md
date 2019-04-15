@@ -76,10 +76,10 @@ Run `make clean` to remove all compiled .o files
 
 Run `make distclean` to remove all compiled .o files including the executable **hello** file.
 
-# How to draw maze (input to program)
+## How to draw maze (input to program)
 Press enter to draw all and press space to leave it empty
 
-# How to change size of maze
+## How to change size of maze
 change MAX macro constant in code file
 
 ## Sample output using Backtracking
@@ -328,7 +328,7 @@ Current Mouse Position: 3 0
 ```
 Thus, whole maze is traveresed by backtracking algorithm.
 
-# Sample output using ShortestPath
+## Sample output using ShortestPath
 ```C
 ./simulate
 
