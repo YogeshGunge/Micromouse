@@ -74,7 +74,6 @@ int main() {
       switch (nlinks) {
       case 0:
         break;
-      case 4:
       case 3:
       case 2:
         m.top++;
